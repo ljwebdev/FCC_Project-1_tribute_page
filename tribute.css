@@ -1,0 +1,39 @@
+/* stylesheet for tribute.html */
+body{
+	color:#000000;
+	background-color: #FFFFFF;
+	font-family: arial, courier, sans-serif;
+}
+ 	#main {margin-top: 10px;
+ 	}
+ 	hgroup{text-align: center; padding: 5px;
+ 	}
+ 	  #title {font-size: 24px;
+ 	}
+ 	  h2{font-size: 18px;
+ 	   font-style: italic;
+ 	    color: #333333;
+ 	}
+ 	#img-div{font-size: 16px;
+ 		width: auto;
+ 	}
+
+ 	  #image{max-width: 100%; height: auto;
+ 	}
+ 	  #img-caption{color: #000001;
+ 	  	text-align: center;
+ 	}
+ 	#tribute-info{padding: 15px; font-size: 14px; color: #000; text-indent: 3em;
+ 	}
+ 	.intro: first-letter {font-size: 18px;
+ 	}
+ 	.intro: first-line {color: black;
+ 	}
+ 	footer{font-size: 10px;
+ 		color: #000;
+ 	}
+ 	@media (max-width: 480 px){#img-div{font-size: 12px;
+ 	    max-width: 100%;
+ 	    }
+ 	    } 
+ </style>
